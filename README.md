@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # git_h_6
-H6 - Git hack individual
+H6 - Clonando un repositorio remoto.
 =======
 # lodash v4.17.21
 
@@ -82,4 +81,4 @@ Lodash is available in a [variety of builds](https://lodash.com/custom-builds) &
  * [lodash-es](https://www.npmjs.com/package/lodash-es), [babel-plugin-lodash](https://www.npmjs.com/package/babel-plugin-lodash), & [lodash-webpack-plugin](https://www.npmjs.com/package/lodash-webpack-plugin)
  * [lodash/fp](https://github.com/lodash/lodash/tree/npm/fp)
  * [lodash-amd](https://www.npmjs.com/package/lodash-amd)
->>>>>>> 115a3bd (Feat: added lodash files)
+
